@@ -1,0 +1,12 @@
+db.sqlite3
+README.md
+controle_visitantes/__pycache__
+apps/dashboard/__pycache__
+apps/dashboard/migrations
+apps/porteiros/__pycache__
+apps/porteiros/migrations
+apps/usuarios/__pycache__
+apps/usuarios/migrations
+apps/visitantes/__pycache__
+apps/visitantes/migrations
+static/vendor
